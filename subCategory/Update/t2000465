@@ -1,15 +1,15 @@
 {
-  "AliExpress Update": "15 Mar, 2021",
+  "AliExpress Update": "01 Sep, 2020",
   "link created": "25 March 2021",
   "Currency": "United States",
   "Category": "Muslim Fashion",
-  "items_sdf": [
+  "items_sdfs": [
     {
-      "login": "Tap ➟",
-      "html_url": "https://www.cotxapi.com/apps/grid.php?get_id=201515601&id_currency=1&v=1&return=https://www.cotxapi.com/apps/grid.php?get_id=201515601",
-      "avatar_url": "https://github.com/BestsellingLover/dd/blob/master/App_image/transparent_1.png?raw=true",
+      "login": "Open ➟",
+      "html_url": "https://s.click.aliexpress.com/e/_9umj9C",
+      "avatar_url": "https://github.com/BestsellingLover/dd/blob/master/App_image/transparent_2.png?raw=true",
       "play_store_url": "https://play.app.goo.gl/?link=https://play.google.com/store/apps/developer?id=CotExpress+Tech",
-      "gift_url": "https://www.cotxapi.com/apps/grid.php?get_id=201515601&id_currency=1&v=1&return=https://www.cotxapi.com/apps/grid.php?get_id=201515601",
+      "gift_url": "https://www.cotxapi.com/apps/grid.php?get_id=201515701&id_currency=1&v=1&return=https://www.cotxapi.com/apps/grid.php?get_id=201515701",
       "more": "www.cotxapi.com"
     }
   ]
