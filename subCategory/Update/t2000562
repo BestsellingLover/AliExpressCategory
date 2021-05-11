@@ -1,5 +1,6 @@
-{ "AliExpress Update": "01 Sep, 2020", "Currency": "United States", "Category": "Boys' Clothing", "View": "131", 
-"items_remove": [ {
+{ "AliExpress Update": "01 Sep, 2020", "Currency": "United States",
+ "Category": "Boys' Clothing", "View": "131", 
+"items": [ {
 
 "login": "Tap ➟", 
 "html_url": "https://www.cotxapi.com/apps/grid.php?get_id=862&id_currency=1&v=1&return=https://www.cotxapi.com/apps/grid.php?get_id=862",
